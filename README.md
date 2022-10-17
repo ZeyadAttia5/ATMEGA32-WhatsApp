@@ -30,3 +30,11 @@ The ATMEGA32 handels the data however it was programmed. In the demo, the microc
 3 --> turn on LED 5
 
 Other Numbers --> turn off all LEDs
+
+
+DEMO:-
+
+
+
+https://user-images.githubusercontent.com/85710632/196302586-de1256b1-c66b-4878-852d-6f25304c346b.mp4
+
