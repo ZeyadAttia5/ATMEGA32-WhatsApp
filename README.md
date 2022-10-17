@@ -19,6 +19,9 @@ Then, it starts scraping the messages and sending them to the ATMEGA32.
 The ATMEGA32 handels the data however it was programmed. In the demo, the microcontroller is programmed as follows:
 
 1 --> turn on LED 1
+
 2 --> turn on LED 2
+
 3 --> turn on LED 5
-Anything else --> turn off all LEDs
+
+Other Numbers --> turn off all LEDs
