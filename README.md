@@ -5,11 +5,16 @@ As the title suggests, in this project I aimed to control the ATMEGA32 via Whats
 This is possible by webscraping WhatsApp messages using python and then sending the data to the microcontroller via USART communication protocol.
 
 Libraries used:
+
   -Selenium
+  
   -pynput
   
+  
 Software used:
+
   -putty
+  
   -IDEs: (pycharm, eclipse)
   
   
